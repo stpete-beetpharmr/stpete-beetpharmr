@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @stpete-beetpharmr
-- 👀 I’m interested in ... poop!
-- 🌱 I’m currently learning ... how to poop!
-- 💞️ I’m looking to collaborate on ... i think you know by now.  POOP!
-- 📫 How to reach me ... first poop!
+- 👀 I’m interested in blockchains, rust, capital markets, systems programming!
+- 🌱 I’m currently learning ... how to code in rust!
+- 💞️ I’m looking to collaborate on open source projects in Rust, C, Python!
+- 📫 How to reach me ... TBD!
 
 <!---
 stpete-beetpharmr/stpete-beetpharmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
